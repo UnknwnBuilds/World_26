@@ -1,2 +1,7 @@
 # World_26
-Lumi's Pass | 250 x 250 map, 50% world size, Limestone, Sandstone and Granite, Tropical Jungle
+
+The Temple | 250 x 250 map, 50% world size, Limestone, Sandstone and Granite, Tropical Jungle
+
+Mods: Development Only, can be safely removed
+
+Note: All ruins and such have been unclaimed via mod. You will have to claim on your own!
